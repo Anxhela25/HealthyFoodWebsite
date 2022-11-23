@@ -77,3 +77,4 @@ function checkFlexGap() {
 
   if (!isSupported) document.body.classList.add("no-flexbox-gap");
 }
+checkFlexGap();
